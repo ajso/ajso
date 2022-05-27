@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/andrew-ecurut-angura-987266b4/" target="_blank"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:andre.ecurut@gmail.com" target="_blank"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="mailto:andre.ecurut@outlook.com" target="_blank"><img title="Email" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/><a>
-    <a href="https://twitter.com/ecurut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ecurut" height="30" width="40" /></a>
+    <img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fhome">
       <a href="https://instagram.com/iam_andre11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_andre11" height="30" width="40" /></a>
 </p>
 
