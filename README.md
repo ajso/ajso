@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Meabed</h1>
+<h1 align="center">Hi 👋, I'm Ecurut Andrew aka AJ</h1>
 <h3 align="center">Innovative • Technology Enthusiast • Product Developer • Collaborator</h3>
 
 <!--
