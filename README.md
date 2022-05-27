@@ -67,8 +67,8 @@ Here are some ideas to get you started:
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajso&theme=light">
  </a>
 <hr>
-<!-- <a href="#">
+ <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ajso&show_icons=true&layout=compact&theme=light&hide=stars" />
 </a>
-    -->
+    
 <hr>
