@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <a href="mailto:andre.ecurut@gmail.com" target="_blank"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="mailto:andre.ecurut@outlook.com" target="_blank"><img title="Email" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/><a>
     <a href="https://twitter.com/ecurut" target="_blank"><img title="twitter" src="https://img.shields.io/badge/twitter-0078D4?style=for-the-badge&logo=twitter&logoColor=white"/><a>
-      <a href="https://instagram.com/iam_andre11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iam_andre11" height="30" width="40" /></a>
+      <a href="https://instagram.com/iam_andre11" target="blank"><img align="center" src="https://img.shields.io/badge/instagram-F77737?style=for-the-badge&logo=twitter&logoColor=white" alt="iam_andre11"/></a>
 </p>
 
 <hr>
