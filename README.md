@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohamed Meabed</h1>
+<h3 align="center">Innovative • Technology Enthusiast • Product Developer • Collaborator</h3>
 
 <!--
 **ajso/ajso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -55,14 +56,14 @@ Here are some ideas to get you started:
 ## 📈📉 GitHub Stats
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajso&langs_count=8&layout=compact&show_icons=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajso&langs_count=8&layout=compact&show_icons=true&theme=light" />
 </a>
     <a href="#">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajso&theme=dark">
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajso&theme=light">
  </a>
 <hr>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ajso&show_icons=true&layout=compact&theme=dark&hide=stars" />
+<!-- <a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ajso&show_icons=true&layout=compact&theme=light&hide=stars" />
 </a>
-    
+    -->
 <hr>
