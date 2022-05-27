@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 📝📧 Contact
+##📝📧 Contact
 
 <p align="left">
   <a href="https://www.linkedin.com/in/andrew-ecurut-angura-987266b4/" target="_blank"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </p>
 
 <hr>
-    ## 👩‍💻🚀 Skills
+##👩‍💻🚀 Skills
 
 <p align="left">
  <a href="#">
