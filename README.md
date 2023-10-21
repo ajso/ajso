@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ecurut Andrew aka AJ</h1>
-<h3 align="center">Innovative • Technology Enthusiast • Product Developer • Collaborator • Customer Service Representative</h3>
+<h3 align="center">Innovative • Technology Enthusiast • Product Developer • Collaborator • Customer Service Representative.</h3>
 
 <!--
 **ajso/ajso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
